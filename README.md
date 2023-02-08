@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Other people**
 
-- 👨‍💻 All of my projects are available at [https://mdraihanhasan201.github.io/personal-site/](https://rayhan975.github.io/personal-site/)
+- 👨‍💻 All of my projects are available at [https://mdraihanhasan201.github.io/personal-site/]( https://mdraihanhasan201.github.io/personal-site/)
 
 - 💬 Ask me about **HTML,CSS,JAVA,PYTHON,SQL**
 
