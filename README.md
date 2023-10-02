@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Computer Science and Engineering<br><br>👯 I’m looking to collaborate on GitHub<br><br>🤝 I’m looking for help with Other people<br><br>👨‍💻 All of my projects are available at https://mdraihanhasan201.github.io/personal-site/<br><br>💬 Ask me about HTML,CSS,JAVA,PYTHON,SQL<br><br>📫 How to reach me raihan15-3098@diu.edu.bd
+🌱 I’m currently learning Computer Science and Engineering<br><br>👯 I’m looking to collaborate on GitHub<br><br>🤝 I’m looking for help with Other people<br><br>👨‍💻 All of my projects are available at https://mdraihanhasan201.github.io/personal-site/<br><br>💬 Ask me about HTML , CSS, JS,Bootstrap,tailwind,react,nodejs,expressjs,MongoDB,PHP,SQL,jsva,c,c++,python,oop,etc<br><br>📫 How to reach me raihan15-3098@diu.edu.bd
 
 
 ## 🌐 Socials:
